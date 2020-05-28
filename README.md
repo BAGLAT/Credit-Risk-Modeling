@@ -6,7 +6,7 @@ where PD = Probability of default (Works on Logisitic Regression)
 LGD = Loss given default (Works on Linear Regression)
 EAD = Exposure at default (Works on Linear Regression)
 
-Followin techniques are used to build the statistical model:
+Following techniques are used to build the statistical model:
 - Weight of evidence
 - Information value
 - Fine classing
