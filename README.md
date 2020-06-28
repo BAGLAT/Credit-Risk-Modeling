@@ -1,6 +1,9 @@
 # Credit Risk Modeling
 Modeling Expected Loss to identify customers that can default on a given loan in future and estimated capital requirement (Capital Adequacy or regulatory capital)
 
+Data:
+https://www.kaggle.com/wendykan/lending-club-loan-data
+
 Expected Loss = PD * EAD * LGD
 where PD = Probability of default (Works on Logisitic Regression)
 LGD = Loss given default (Works on Linear Regression)
