@@ -21,4 +21,3 @@ Following techniques are used to build the statistical model:
 - Gini Coefficient
 - Kolmogorov-Smirnov
 - Assessing Population Stability
-- Maintaining a model
